@@ -20,6 +20,7 @@ namespace WebApplication13
             services.AddControllers();   // Register Built-in Web APIs Serivces
             services.AddRazorPages();
             services.AddMvc();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
